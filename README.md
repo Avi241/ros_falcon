@@ -1,5 +1,6 @@
 # Description
 This package allows ROS interface with the Novint Falcon Device.
+[Updates by Avi241] - Added support for 2 falcon , Python examples
 
 ## 1. Authors
 Steven Martin:
